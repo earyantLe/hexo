@@ -86,3 +86,8 @@ deploy:
      github: https://github.com/earyant/earyant.github.io.git
      coding: https://git.coding.net/earyant/earyant.git
   branch: master
+
+menu:
+  home:  /home
+  about:  /about
+  tags:  /tags
