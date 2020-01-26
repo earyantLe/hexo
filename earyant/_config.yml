@@ -52,8 +52,8 @@ feed:
   
 #npm install hexo-generator-search --save
 search:
-    path: search.xml
-    field: all
+  path: search.xml
+  field: all
 
 # Category & Tag
 default_category: uncategorized
@@ -86,6 +86,3 @@ deploy:
      github: https://github.com/earyant/earyant.github.io.git
      coding: https://git.coding.net/earyant/earyant.git
   branch: master
-
-materialcdn:
-    false
